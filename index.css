@@ -1,0 +1,29 @@
+.body{
+    margin: 0;
+    padding: 2;
+}
+.main{
+    background-color: lightgreen;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    padding-left: 30px;
+}
+.section2{
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.head-3{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.head-4{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button1{
+    margin-left: 10px; 
+}
+.images{
+    display: flex;
+    justify-content: space-evenly;
+}
