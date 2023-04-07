@@ -4,13 +4,9 @@
 }
 
 .line1 {
-    padding-left: 1rem ;
-   
-    margin: revert;
+    padding-left: 10rem;
+    margin: inherit;
     background-color: aqua;
-    align-items: center;
-    justify-content: space-around;
-
 }
 
 
@@ -23,10 +19,20 @@
     align-items: center;
     justify-content : space-around;
 }
+.tablebox{
+    width: 75px;
+height: 54px;
+}
 .table{
-    border: 1px solid white;
+    /* border: 1px solid white; */
     color: black;
     background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0px 0px 2px;
+
+
 }
 .tablebox{
     background-color: black;
@@ -36,6 +42,7 @@
 }
 .mb-0{
     margin-bottom: 0px;
+    color: lightblue;
 }
 .mb-1{
     background-color: black;
@@ -43,6 +50,26 @@
 }
 .mb-2{
     margin-bottom: 16px;
+    padding: 3re;
+    padding-left: 10rem;
+}
+.images{
+    display: flex;
+    justify-content: space-evenly;
+    color: lightblue;
+    display: inline-flex;
+    margin-bottom: 16px;
     padding: 0px;
     padding-left: 1rem ;
+ 
+}
+.mb-6{
+   
+    margin: 3rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 30px 29px 30px 30px;
+    padding-left: 1rem 0px 0px 10px;
+    flex: auto;
+    display: inline-block;
 }
