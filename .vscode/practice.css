@@ -1,0 +1,48 @@
+
+.container {
+    margin: auto;
+}
+
+.line1 {
+    padding-left: 1rem ;
+   
+    margin: revert;
+    background-color: aqua;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+.content {
+    height: 250px;
+    color: white;
+    background: #1E70B8;
+    padding: 15px 0px;
+    display : flex;
+    align-items: center;
+    justify-content : space-around;
+}
+.table{
+    border: 1px solid white;
+    color: black;
+    background-color: white;
+}
+.tablebox{
+    background-color: black;
+}
+.m-0{
+    margin: 0px;
+}
+.mb-0{
+    margin-bottom: 0px;
+}
+.mb-1{
+    background-color: black;
+    padding: 1rem 0.5rem;
+}
+.mb-2{
+    margin-bottom: 16px;
+    padding: 0px;
+    padding-left: 1rem ;
+}
