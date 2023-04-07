@@ -27,3 +27,6 @@
     display: flex;
     justify-content: space-evenly;
 }
+.sample{
+    display: block;
+}
