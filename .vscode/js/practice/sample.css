@@ -1,0 +1,40 @@
+.head{
+    background-color: #2196F3;
+    color: white;
+    width: 940px;
+    height: 80px;
+    padding: 20px 10px;
+    
+}
+.topleft{
+    display: flex;
+    gap: 80px;
+}
+.search{
+    
+    width: 464px;
+    height: 30px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 20px;
+    margin: 7px;
+    background-color: white;
+    color: black;
+}
+.content{
+    display: flex;
+     gap: 80px;
+     padding: 0px 10px;
+}
+.info{
+    display:flex;
+    gap: 70px;
+    margin: 0px 15px;
+}
+.icon{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+.lside{
+    display: inline-block;
+    height: 100vh;
+    background: white;
+    color:  #007EA1;
+    text-align: center;
+   
+}
+.lcolor{
+color: white;
+}
+.size{
+    padding: 15px;
+    color: white;
+}
+.header{
+    display: flex;
+    background-color: #87B3C0;
+    height: fit-content;
+    justify-content: space-between;
+    padding: 4px 12px;
+}
+.header-blue{
+    height: 45px;
+    position: relative;
+    background-color: #007EA1;
+}
+.blue-content{
+    position: absolute;
+    background-color: white;
+    color: black;
+    bottom: -16px;
+    left: 50%;
+  transform: translateX(-50%);
+    padding: 8px 16px;
+}
+.para{
+    text-decoration-line: underline;
+}
+
+
+.d1data{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap:2rem
+}
+
+
+
+
