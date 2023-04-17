@@ -1,4 +1,16 @@
-.icons{
-    text-align: center;
-    
+
+.admin{
+    padding: 0px 10px;
 }
+.icons{
+    padding: 10px ;
+}
+.box{
+    height: 500px;
+    width: 190px;
+    background-color: #efe5e5;
+    color: black;
+}
+
+
+
