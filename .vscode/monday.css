@@ -1,0 +1,163 @@
+.top{
+    display: flex;
+    border: 1px solid black;
+    text-align: center;
+}
+.content{
+    margin: 10px 210px;
+}
+.button{
+    background-color: #2286fe;
+    margin: 10px;
+
+}
+.number{
+    background-color: coral;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+     width: 100px;
+     height: 50px;
+     
+}
+.contact-info p {
+     margin: 5px auto;
+
+}
+.table{
+    /* border: 1px solid white; */
+    color: black;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0px 0px 2px;
+    border: 1px solid black;
+
+
+}
+.graph{
+    width: 100px;
+    height: 100px;
+}
+.vector{
+    display: flex;
+    margin: 0px 30px;
+    height: 25px;
+}
+.info{
+    display: flex;
+    background-color: #898989;
+    color: white;
+    gap: 50px;
+    width: 1030px;
+    text-align: center;
+    align-items: center;
+    width: 97%;
+    padding: 0 0 0 30px;
+}
+.data-content{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+    gap: 40px;
+    text-align: center;
+}
+.blue{
+    background-color: #2286fe;
+    padding: 1rem 0.9rem;
+    height: 115px;
+    width: 115px;
+}
+.lblue{
+    background-color: cornflowerblue;
+    padding: 1rem 0.9rem;
+    height: 115px;
+    width: 115px;
+}
+.yellow{
+    background-color: yellow;
+    padding: 1rem 0.9rem;
+    height: 115px;
+    width: 115px;
+
+}
+.green{
+    background-color: green;
+    padding: 1rem 0.9rem;
+    height: 115px;
+    width: 115px;
+}
+.quality-branch{
+    background-color: #2286fe;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+} 
+.local{
+    display: flex;
+    align-items: center;
+}
+.quality{
+    display: flex;
+    padding: 0 20px ;
+}
+.h2{
+    padding: 0 300px;
+   
+}
+.services{
+    display: flex;
+}
+
+.for-you{
+    background-color: gray;
+   
+    text-align: center;
+    margin: 35px 10px;
+    padding: 25px 15px;
+    color: white;
+    background-color: #2286fe;
+
+}
+.services{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.business{
+    display: flex;
+    gap:30px;
+}
+.p1{
+    background-color: cadetblue;
+    width: 150px;
+    height: 150px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.p2{
+    background-color: gray;
+    width: 150px;
+    height: 150px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.about{
+    display: inline-flex;
+    padding: 10px 0 0 50px;
+    gap:70px;
+}
+.message{
+    padding: 0 0 0 70px;
+
+}
+
+
+
