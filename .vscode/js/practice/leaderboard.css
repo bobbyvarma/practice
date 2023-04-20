@@ -1,0 +1,25 @@
+
+.button{
+    width: 352px;
+    border-radius: 20px;
+    background: cadetblue;
+    height: 15px;
+}
+.name{
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+.list-item {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.details {
+    /* padding: 5px 0; */
+    height: 80px;
+    display: flex;
+    align-items: flex-start;
+    
+}

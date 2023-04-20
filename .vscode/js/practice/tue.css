@@ -1,0 +1,27 @@
+.logo{
+    display: flex;
+}
+.txt{
+    display: flex;
+    width: 100%;
+}
+.top{
+    margin-left: 100px;
+}
+.email{
+    margin-top: 30px;
+}
+.password{
+    margin-top: 30px;
+}
+.conform{
+    margin-top: 30px;
+}
+
+.signwith{
+    margin-left: 40px;
+}
+.button{
+    width: 50%;
+    margin-top: 30px;
+}
