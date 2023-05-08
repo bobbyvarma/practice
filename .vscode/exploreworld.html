@@ -68,8 +68,13 @@
                         <p >Location</p>
                     </div>
                     <div class="bg-orange-200 border mb-3 pl-2 rounded ml-3 mr-7 text-start ">
-                        <button type="submit" value="Submit" class="p-1">Please visit the Location</button>
-                        
+                      <p id="demo"></p>
+                        <button onclick="myFunction()" >Please visit the Location</button>
+                        <script>
+                        function myFunction() {
+                          document.getElementById("demo").innerHTML = "This is tha location ";
+                        }
+                        </script>
                     </div>
 
                 </div>
